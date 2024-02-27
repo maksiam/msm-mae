@@ -6,7 +6,7 @@ torchaudio
 tensorboard
 fire
 tqdm
-sklearn
+scikit-learn
 nnAudio
 timm
 einops
